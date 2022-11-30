@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+#Modal{
+  position: absolute;
+    width: 662px;
+    height: 434px;
+  
+    background: #FFFFFF;
+    border-radius: 19px;
+
+}
+
+
+  .Day-box{
+    width: 100%;
+  }
+
